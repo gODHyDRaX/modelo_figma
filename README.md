@@ -18,7 +18,7 @@ Javier Eduardo Mayen Cruz
 My page
 </td>
 <td>
-https://godhydrax.github.io/Modelo_cel/</td>
+https://godhydrax.github.io/modelo_figma/
 </tr>
 
 </table>
