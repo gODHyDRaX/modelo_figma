@@ -17,7 +17,9 @@ Javier Eduardo Mayen Cruz
 <td>
 My page
 </td>
-<td>https://godhydrax.github.io/modelo_figma/
+<td>
+https://godhydrax.github.io/modelo_figma/
+</td>
 </tr>
 
 </table>
