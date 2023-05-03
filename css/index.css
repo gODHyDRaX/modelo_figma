@@ -158,42 +158,51 @@ cursor:text;
 .imagen_link{
     float: left;
     margin-left: -0.10rem;
-    width: 43rem;
+    width: 42.8rem;
+    height: 61.2rem;
 }
 .boton{
-    float: left;
     position: absolute;
-    width: 5rem;
-    margin-top: 2rem;
-    margin-left: -42em;
+    float: left;
+    width: 4.4rem;
+    display: flex;
+    margin-top: 2.8rem;
+    margin-left: 2.4rem;
 }
 .pantalla_baja{
-    width: 43rem;
-    height: 42.7rem;
+    width: 42.8rem;
+    height: 41.6rem;
     position:absolute;
     margin-top: 50rem;
-    border-radius: 13%;
+    border-radius: 40px 40px 0px 0px;
     margin-left: -0.1rem;
     background-color: whitesmoke;
 }
 .titulo2{
     font-size: 1.8rem;
-    font-weight: 700;
+    font-weight: 600;
     position: absolute;
-    margin-top: 54rem;
-    margin-left: 4rem;
+    line-height: 2.1rem;
+    margin-top: 54.4rem;
+    margin-left: 2rem;
 }
 .titulo3{
     position: absolute;
-    margin-top: 58rem;
-    margin-left: 3.5rem;
-    font-size: 1.6rem;
-    font-weight: 100;
+    margin-top: 57rem;
+    margin-left: 2rem;
+    font-size: 1.4rem;
+    line-height: 1.4rem;
+    font-style: normal;
+    font-weight: 400;
     color: #828282;
 }
 .titulo4{
-    font-size: 1.5rem;
-    font-weight: 100;
+    position: absolute;
+    margin-left: 35.4rem;
+    margin-top: 54.513rem;
+    font-size: 1.4rem;
+    font-style: normal;
+    font-weight: 400;
     color: #828282;
 }
 .titulo_4{
@@ -205,28 +214,30 @@ cursor:text;
  text-align: right;
 }   
 .titulo5{
-    color: #FF7A1A;;
+    position: absolute;
+    margin-top: 57.455rem;
+    margin-left: 35.1rem;
+    color: #FF7A1A;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.8rem;
+    line-height: 2.1rem;
 }
 .titulo5 b{
     color: black;
 }
-.titulo_5{
-    font-size: 1.1rem;
-    width: 8rem;
-    height: 3rem;
-    margin-left: 30rem;
-    margin-top: 58.4rem;
-    position: absolute;
-    text-align: right;
-}
+
 .texto{
-    
-    width: 33.9rem;
-    height: 10rem;
+    justify-content: left;
+    width: 38.4rem;
+    height: 11.1rem;
     position: absolute;
-    margin-top: 63.7rem;
-    margin-left: 4.5rem;
-    font-size: 1.15rem;
+    margin-top: 62rem;
+    margin-left: 2.3rem;
+    font-size: 1.27rem;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.8rem;
     color: #828282;
     }
 .cuadros{
@@ -240,8 +251,8 @@ cursor:text;
     justify-content: space-around;
 }
 .item4{
-    width: 5rem;
-    height: 5rem;
+    width: 6.5rem;
+    height: 6.5rem;
     margin-top: 1.5rem;
     background-color: white;
     border-radius: 1rem;
@@ -251,18 +262,23 @@ cursor:text;
     font-weight: 600;
 }
 .item4 h1{
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     margin-top: 1rem;
+}
+.item2 p{
+    font-size: 1.4rem;
+    font-weight: 600;
 }
 .cuadro_final{
     position: absolute;
     background-color: #FF7A1A;
     color: white;
-    border-radius: 2%;
-    width: 36rem;
+    box-shadow: 8px 8px 15px rgba(255, 122, 26, 0.2);
+    border-radius: 10px;
+    width: 38.7rem;
     height: 5rem;
-    margin-left: 3.395rem;
-    margin-top: 83rem;
+    margin-left: 2rem;
+    margin-top: 84.5rem;
     display: flex;
     flex-direction: row;
     justify-content: center;
